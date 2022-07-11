@@ -64,5 +64,5 @@ $ roslaunch velodyne_pointcloud VLP16_points.launch
 $ rosrun rviz rviz -f velodyne
 ```
 
-11. rviz를 이것저것 만지면서 관찰해본다 (실험실 )
+11. rviz를 이것저것 만지면서 관찰해본다 (실험실 데이터를 받아와 시각화가 잘 진행된것을 확인할수 있다)
 ![first_test](https://user-images.githubusercontent.com/79103625/178249246-bdf1a14a-b2d3-4f05-b640-4d9282d6a996.png)
