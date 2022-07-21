@@ -14,7 +14,8 @@ source ~/catkin_ws/devel/setup.bash
 ## how to use
 
 ```
-roslaunch segmentation_ros run.launch
+roslaunch segmentation_ros segmentation_ros.launch 
+
 ```
 
 
