@@ -1,0 +1,2 @@
+segmentation_ros
+-DCATKIN_DEVEL_PREFIX=/home/user/Desktop/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/Desktop/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/user/Desktop/catkin_ws/devel
+
+Name: segmentation_ros
+Description: Description of segmentation_ros
+Version: 0.0.0
+Cflags: -I/home/user/Desktop/catkin_ws/src/segmentation_ros/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs pcl_ros roscpp rospy sensor_msgs std_msgs tf2 tf2_ros
