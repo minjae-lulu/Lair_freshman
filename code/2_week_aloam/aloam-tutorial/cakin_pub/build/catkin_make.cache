@@ -1,2 +1,0 @@
-file_player_mulran
--DCATKIN_DEVEL_PREFIX=/home/user/Desktop/aloam-tutorial/cakin_pub/devel -DCMAKE_INSTALL_PREFIX=/home/user/Desktop/aloam-tutorial/cakin_pub/install -G Unix Makefiles

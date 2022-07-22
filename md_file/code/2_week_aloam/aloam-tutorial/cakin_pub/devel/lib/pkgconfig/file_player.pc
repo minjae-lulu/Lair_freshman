@@ -1,8 +1,0 @@
-prefix=/home/user/Desktop/aloam-tutorial/cakin_pub/devel
-
-Name: file_player
-Description: Description of file_player
-Version: 0.0.1
-Cflags: -I/home/user/Desktop/aloam-tutorial/cakin_pub/devel/include -I/home/user/Desktop/aloam-tutorial/cakin_pub/src/file_player_mulran/include -I/usr/include/eigen3
-Libs: -L${prefix}/lib -lfile_player
-Requires: roscpp rospy std_msgs geometry_msgs message_runtime image_transport cv_bridge dynamic_reconfigure pcl_ros pcl_conversions pcl_msgs eigen_conversions camera_info_manager tf
